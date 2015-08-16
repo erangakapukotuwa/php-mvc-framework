@@ -1,10 +1,4 @@
-<?php 
-
-require 'framework/Bootstrap.php';
-require 'framework/Controller.php';
-require 'framework/View.php';
-
-$app = new Bootstrap();
-
+<h2>Home</h2>
+<p>Welcome to the simple MVC framwork</p>
 	
 
