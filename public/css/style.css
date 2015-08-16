@@ -1,0 +1,22 @@
+body {
+	margin: 0px;
+	background: #006064;
+}
+
+header {
+	background: #00838F;
+	padding: 10px 30px;
+	color: #fff;
+}
+
+footer {
+	padding: 30px;
+	background: #006064;
+	color: #fff;
+}
+
+.content {
+	background: #E0F7FA;
+	padding: 30px;
+	color: #424040;
+}
