@@ -1,5 +1,6 @@
-		<div>
+		</section>
+		<footer>
 			<p>A simple php mvc framework</p>
-		</div>
+		</footer>
 	</body>
 </html>

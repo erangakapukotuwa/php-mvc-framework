@@ -7,6 +7,8 @@ require 'framework/View.php';
 require 'framework/Database.php';
 require 'framework/Session.php';
 
+require 'config/config.php';
+
 $app = new Bootstrap();
 
 	
