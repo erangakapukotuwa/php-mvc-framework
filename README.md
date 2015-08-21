@@ -1,4 +1,4 @@
-# php-mvc-frame
+# php-mvc-framework
 This is a simple framework, based on MVC architecture. This can be used as a skeleton for PHP projects.    
 
 ## Todos
