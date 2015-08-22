@@ -7,10 +7,10 @@ class Controller {
 	}
 
 	public function loadModel($name) {
-		$modelFile = 'model/'.$name.'Model.php';
+		$modelFile = 'model/'.$name.'.php';
 		if(file_exists($modelFile)){
 			require $modelFile;
-			$strModelName =  $name.'Model';
+			$strModelName =  $name;
 			$this->model = new $strModelName();
 		}
 	}
