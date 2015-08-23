@@ -1,0 +1,8 @@
+# The git ignore file  #
+########################
+
+## directories
+vendor/
+
+## files 
+composer.phar

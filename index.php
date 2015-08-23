@@ -6,6 +6,7 @@ require 'framework/Model.php';
 require 'framework/View.php';
 require 'framework/Database.php';
 require 'framework/Session.php';
+require 'framework/UnitTestCase.php';
 
 require 'config/config.php';
 
